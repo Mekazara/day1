@@ -1,0 +1,80 @@
+[
+    {
+      "first_name": "James",
+      "last_name": "Bond",
+      "age": "21",
+      "level": "2",
+      "address": "72022 Towne Square, Apt. 404, 50219, North Dora, Pennsylvania, USA",
+      "phone_number": "+1 505-644-2254",
+      "e_mail": "brendan1@yahoo.com",
+      "subjects": [
+        "Historical Musicology",
+        "Systems Theory in Anthropology",
+        "Russian History"
+      ],
+      "projects": [
+          {
+          "period": "1_st semester",
+          "name": "YIELDING DOCTOR",
+          "mentor": "Lea Balbino",
+          "note": "95"
+          },
+          {
+          "period": "2_st semester",
+          "name": "YIELDING DOCTOR",
+          "mentor": "Ricarda Sonja",
+          "note": "89" 
+          }
+      ]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "age": "20",
+        "level": "2",
+        "address": "74640 Feil Orchard, Suite 884, 26927, Hartmannport, Wisconsin, USA",
+        "phone_number": "+1 260-749-5770",
+        "e_mail": "domenica_abbott@gmail.com",
+        "subjects": [
+          "Thermal Physics",
+          "Astrostatistics",
+          "Philology"
+        ],
+        "projects": [
+            {
+            "period": "1_st semester",
+            "name": "OBSEQUIOUS DRIVING",
+            "mentor": " Giannino Annika ",
+            "note": "90"
+            },
+            {
+            "period": "2_st semester",
+            "name": "WORRIED EAR",
+            "mentor": " Hartmann Benedetto ",
+            "note": "75" 
+            }
+        ]
+      },
+      {
+        "first_name": "Tom",
+        "last_name": "Lavel",
+        "age": "24",
+        "level": "4",
+        "address": "1340 Wilson Mill, Suite 510, 76993, Linamouth, Maine, USA",
+        "phone_number": "+1 505-218-4840",
+        "e_mail": "deshaun49@gmail.com",
+        "subjects": [
+          "Sociology of Gender",
+          "Comparative Anatomy",
+          "Organometallic Chemistry"
+        ],
+        "projects": [
+            {
+            "period": "1_st semester",
+            "name": "FAR BIRDS",
+            "mentor": "Rebecca Helene",
+            "note": "87"
+            }
+        ]
+      } 
+  ]
